@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweta-madhuri&label=Profile%20views&color=0e75b6&style=flat" alt="sweta-madhuri" /> </p>
 
+- 🌱 I’m currently learning **Power BI, Excel, SQL, Python, HTML,CSS**
+
+- 💬 Ask me about **Power BI, Excel, SQL, Java, Python**
+
 - 📫 How to reach me **madhuriksweta@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
